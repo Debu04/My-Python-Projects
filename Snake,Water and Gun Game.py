@@ -1,4 +1,4 @@
-import random
+import random  # Importing the random for later use
 list = ["S","W","G"]
 player = input("Enter your name :\t").upper()
 
